@@ -1,4 +1,4 @@
-# Notifications server
+# praisedapp-notifications
 
 This is the equivalent of our current WebSockets notifications server, but
 rewritten using NodeJS and Socks.js.
