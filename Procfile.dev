@@ -1,0 +1,2 @@
+web: node notifications.js
+redis: redis-server
