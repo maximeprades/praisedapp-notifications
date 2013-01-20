@@ -30,7 +30,5 @@ Also, Procfile.dev is available to start the server in a development environment
 
 ## Todo
 
-* As it's only a raw port of the original notifications server, we need to
-  add the support of user authentication and per company messages broadcasting.
 * Disable `console.log`s on production: Heroku's logging system is quite slow
   imho.
